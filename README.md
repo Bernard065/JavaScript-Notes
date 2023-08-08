@@ -21,3 +21,13 @@ If you misspell the name of a variable that you’ve already declared, it will b
 **Strict equality (===):** Compares the equality of two operands with type. If both value and type are equal then the condition is true otherwise false.
 
 **Inequality (!=):** Compares inequality of two operands. True if operands are not equal.
+
+
+## Logical Operators: 
+These operators are used to determine the logic between variables or values.
+
+**AND (&&):** The && operator returns true if both operands are true, otherwise, it returns false.
+
+**OR (||):** The || operator returns true if at least one operand is true. It returns false only if both operands are false.
+
+**NOT (!):** The ! operator is used to negate a Boolean value. It returns true if the operand is false, and false if the operand is true.
